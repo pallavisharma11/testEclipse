@@ -5,5 +5,5 @@
  * @author Dell
  *
  */
-module sampleProj {
+module test {
 }
